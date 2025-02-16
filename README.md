@@ -46,7 +46,7 @@ $ slyvexd
 
 ## Discord
 
-Join our discord server using the following link: https://discord.gg/8K6X5EKj
+Join our discord server using the following link: https://discord.gg/WTnzChUfgc
 
 
 ## License
